@@ -1,0 +1,26 @@
+body{
+    background-color:yellowgreen;
+}
+header{
+    font-size: 30px;
+    background-color:gray;
+    text-align: center;
+    color: azure;
+}
+nav{
+    font-variant: small-caps;
+    font-size: 150%;
+    font-family: Arial, "Times New Roman", sans-serif;
+}
+a{
+    text-align: center;
+}
+h2{
+    background-color: blue;
+}
+footer{
+    background-color: gray;
+}
+#hakkımda{
+    font-style: italic;
+}
