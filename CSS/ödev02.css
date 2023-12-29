@@ -1,0 +1,40 @@
+
+.header{
+    text-align: center;  
+        background: #1abc9c;
+        padding: 80px;
+        color: white;
+}
+.footer{
+    text-align: center;
+}
+.navbar{
+    overflow: hidden;
+    background:#333;
+}
+.navbar a.right{
+    float: right;
+}
+.navbar a{
+    float: left;
+    color: white;
+}
+.row{
+    display: flex;
+  flex-wrap: nowrap;
+}
+.side{
+    flex: 30%;
+    background-color: #f1f1f1;
+    padding: 20px;
+    
+}
+.main{
+    flex: 70%;
+    background-color: white;
+    padding: 20px;
+}
+#p1{
+    background-color: #aaa;
+
+}

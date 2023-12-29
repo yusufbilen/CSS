@@ -1,0 +1,21 @@
+.renkler{
+    font-size: 24px;
+}
+.r1{
+    color: red;
+}
+.r2{
+    color: #02798b;
+}
+.r3{
+    color:rgb(18, 138, 125)
+}
+.r4{
+    color: rgba(18, 138, 125, 0.5);
+}
+.r5{
+    color: hsl(188, 97%, 28%);
+}
+.r6{
+    color: hsla(188, 97%, 28%, 0.5);
+}
